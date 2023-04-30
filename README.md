@@ -2,7 +2,7 @@ Rephrase API
 
 Description
 The Paraphrase API provides a way to generate paraphrased texts from syntax trees.
-
+ 
 Installation
 Clone the repository: git clone https://github.com/BogdanVol/paraphrasing-service.git
 Navigate to the project directory: cd rephrase_api
@@ -13,6 +13,7 @@ For Unix/macOS: source venv/bin/activate
 Install the required dependencies: pip install -r requirements.txt
 
 Usage
+
 Start the server:
 uvicorn main:app --reload
 Open your web browser and navigate to http://localhost:8000.
