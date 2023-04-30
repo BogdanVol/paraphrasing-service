@@ -4,12 +4,19 @@ Description
 The Paraphrase API provides a way to generate paraphrased texts from syntax trees.
  
 Installation
+
 Clone the repository: git clone https://github.com/BogdanVol/paraphrasing-service.git
+
 Navigate to the project directory: cd rephrase_api
+
 Create and activate a virtual environment (optional but recommended):
+
 python3 -m venv venv
+
 For Windows: venv\Scripts\activate
+
 For Unix/macOS: source venv/bin/activate
+
 Install the required dependencies: pip install -r requirements.txt
 
 Usage
